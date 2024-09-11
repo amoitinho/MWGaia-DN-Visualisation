@@ -1,4 +1,4 @@
-# gaiaedr3-proper-motion-visualizations
+# Gaia-density-proper_motion-maps
 
 This repository contains Python code and Jupyter notebooks for the visualization of the sky density of sources, and proper motions in the sky in Gaia EDR3 that were produced as part of the release day outreach efforts. 
 
